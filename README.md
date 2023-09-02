@@ -1,3 +1,4 @@
 # BattleshipUCAB
 
-Proyecto de Batalla Naval con Comunicación Serial desarrollado en Python 
+Proyecto de Batalla Naval con Comunicación Serial (virtual Serial Port) desarrollado en Python 
+
